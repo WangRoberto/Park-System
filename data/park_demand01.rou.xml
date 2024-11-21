@@ -1,0 +1,1602 @@
+<routes>
+    <trip id="v0.0" type="car" depart="0" from="mainin" to="road0">
+        <param key="warning" value="0" />
+        <param key="civil" value="0" />
+        <param key="reviewStars" value="3" />
+        <param key="wallet" value="100" />
+        <param key="goodBehaviour" value="True" />
+        <param key="delay" value="0" />
+        <stop parkingArea="ParkAreaAlternative0" duration="100"/>
+        <stop parkingArea="ParkArea0" duration="200"/>
+        <stop parkingArea="ParkAreaAlternative0" duration="200"/>
+        <stop parkingArea="ParkAreaAlternative0" duration="100"/>
+        <stop parkingArea="ParkArea0" duration="100"/>
+        <stop parkingArea="ParkAreaOutOfTown0" duration="1400"/>
+        <stop parkingArea="ParkArea0" duration="100"/>
+        <stop parkingArea="ParkAreaAlternative0" duration="200"/>
+        <stop parkingArea="ParkAreaAlternative0" duration="100"/>
+        <stop parkingArea="ParkArea0" duration="100"/>
+        <stop parkingArea="ParkArea0" duration="200"/>
+        <stop parkingArea="ParkAreaOutOfTown0" duration="1100"/>
+    </trip>
+    <trip id="v-0.0" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="800"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1500"/> 
+            </trip>
+    <trip id="v1.0" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="900"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1100"/> 
+        </trip>
+    <trip id="v-1.0" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1000"/> 
+        </trip>
+    <trip id="v0.1" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="900"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1300"/> 
+            </trip>
+    <trip id="v-0.1" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1400"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="800"/> 
+            </trip>
+    <trip id="v1.1" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1000"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1300"/> 
+        </trip>
+    <trip id="v-1.1" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1100"/> 
+        </trip>
+    <trip id="v0.2" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1300"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1000"/> 
+            </trip>
+    <trip id="v-0.2" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="900"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1500"/> 
+            </trip>
+    <trip id="v1.2" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1100"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1500"/> 
+        </trip>
+    <trip id="v-1.2" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1200"/> 
+        </trip>
+    <trip id="v0.3" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="800"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1000"/> 
+            </trip>
+    <trip id="v-0.3" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1400"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1300"/> 
+            </trip>
+    <trip id="v1.3" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1100"/> 
+        </trip>
+    <trip id="v-1.3" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1100"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="800"/> 
+        </trip>
+    <trip id="v0.4" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="900"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="900"/> 
+            </trip>
+    <trip id="v-0.4" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="900"/> 
+            </trip>
+    <trip id="v1.4" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1500"/> 
+        </trip>
+    <trip id="v-1.4" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1000"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1100"/> 
+        </trip>
+    <trip id="v0.5" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1400"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1300"/> 
+            </trip>
+    <trip id="v-0.5" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1400"/> 
+            </trip>
+    <trip id="v1.5" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1100"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1500"/> 
+        </trip>
+    <trip id="v-1.5" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+        </trip>
+    <trip id="v0.6" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1400"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1200"/> 
+            </trip>
+    <trip id="v-0.6" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1200"/> 
+            </trip>
+    <trip id="v1.6" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="800"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="800"/> 
+        </trip>
+    <trip id="v-1.6" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+        </trip>
+    <trip id="v0.7" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1400"/> 
+            </trip>
+    <trip id="v-0.7" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1300"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1400"/> 
+            </trip>
+    <trip id="v1.7" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1500"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1200"/> 
+        </trip>
+    <trip id="v-1.7" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1100"/> 
+        </trip>
+    <trip id="v0.8" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="800"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1000"/> 
+            </trip>
+    <trip id="v-0.8" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="800"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+            </trip>
+    <trip id="v1.8" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1500"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1200"/> 
+        </trip>
+    <trip id="v-1.8" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1500"/> 
+        </trip>
+    <trip id="v0.9" type="car" depart="0" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="1200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown0" duration="900"/> 
+            </trip>
+    <trip id="v-0.9" type="car" depart="0" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+            </trip>
+    <trip id="v1.9" type="carB" depart="0" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="900"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1300"/> 
+        </trip>
+    <trip id="v-1.9" type="carB" depart="0" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1100"/> 
+        </trip>
+    <trip id="v2.0" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1300"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1000"/> 
+            </trip>
+    <trip id="v-2.0" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1000"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1000"/> 
+            </trip>
+    <trip id="v3.0" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="800"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1500"/> 
+        </trip>
+    <trip id="v-3.0" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1100"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1400"/> 
+        </trip>
+    <trip id="v2.1" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="900"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1100"/> 
+            </trip>
+    <trip id="v-2.1" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1000"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+            </trip>
+    <trip id="v3.1" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1000"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="800"/> 
+        </trip>
+    <trip id="v-3.1" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1200"/> 
+        </trip>
+    <trip id="v2.2" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1000"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1100"/> 
+            </trip>
+    <trip id="v-2.2" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="900"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1200"/> 
+            </trip>
+    <trip id="v3.2" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="800"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1100"/> 
+        </trip>
+    <trip id="v-3.2" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1000"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+        </trip>
+    <trip id="v2.3" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1500"/> 
+            </trip>
+    <trip id="v-2.3" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1400"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+            </trip>
+    <trip id="v3.3" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="800"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1300"/> 
+        </trip>
+    <trip id="v-3.3" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="900"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="900"/> 
+        </trip>
+    <trip id="v2.4" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="800"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1300"/> 
+            </trip>
+    <trip id="v-2.4" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1200"/> 
+            </trip>
+    <trip id="v3.4" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1500"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="800"/> 
+        </trip>
+    <trip id="v-3.4" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="900"/> 
+        </trip>
+    <trip id="v2.5" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1200"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1400"/> 
+            </trip>
+    <trip id="v-2.5" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1300"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1500"/> 
+            </trip>
+    <trip id="v3.5" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1100"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="800"/> 
+        </trip>
+    <trip id="v-3.5" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="800"/> 
+        </trip>
+    <trip id="v2.6" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="800"/> 
+            </trip>
+    <trip id="v-2.6" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1300"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1300"/> 
+            </trip>
+    <trip id="v3.6" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1500"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1400"/> 
+        </trip>
+    <trip id="v-3.6" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1100"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1100"/> 
+        </trip>
+    <trip id="v2.7" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1000"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1300"/> 
+            </trip>
+    <trip id="v-2.7" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="800"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1500"/> 
+            </trip>
+    <trip id="v3.7" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="900"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1200"/> 
+        </trip>
+    <trip id="v-3.7" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1500"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+        </trip>
+    <trip id="v2.8" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1300"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkArea0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1100"/> 
+            </trip>
+    <trip id="v-2.8" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1500"/> 
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1300"/> 
+            </trip>
+    <trip id="v3.8" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="1000"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown1" duration="900"/> 
+        </trip>
+    <trip id="v-3.8" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="1400"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkAreaOutOfTown-2" duration="900"/> 
+        </trip>
+    <trip id="v2.9" type="car" depart="5" from="mainin" to="road0">
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" /> 
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1000"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative0" duration="100"/> 
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkArea0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown2" duration="1500"/> 
+            </trip>
+    <trip id="v-2.9" type="car" depart="5" from="mainin" to="-road0">  
+                <param key="warning" value="0" /> 
+                <param key="civil" value="0" /> 
+                <param key="reviewStars" value="3" /> 
+                <param key="wallet" value="100" />
+                <param key="goodBehaviour" value="True" /> 
+                <param key="delay" value="0" /> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="100"/> 
+                <stop parkingArea="ParkArea-0" duration="100"/>
+                <stop parkingArea="ParkArea-0" duration="200"/>
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+                <stop parkingArea="ParkAreaOutOfTown-2" duration="1300"/> 
+            </trip>
+    <trip id="v3.9" type="carB" depart="5" from="mainin" to="road1">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea1" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1400"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative1" duration="300"/> 
+            <stop parkingArea="ParkArea1" duration="200"/>
+            <stop parkingArea="ParkAreaOutOfTown3" duration="1400"/> 
+        </trip>
+    <trip id="v-3.9" type="carB" depart="5" from="mainin" to="-road0">
+            <param key="warning" value="0" /> 
+            <param key="civil" value="0" /> 
+            <param key="reviewStars" value="3" /> 
+            <param key="wallet" value="100" />
+            <param key="goodBehaviour" value="True" /> 
+            <param key="delay" value="100" /> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="200"/>
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1400"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="300"/> 
+            <stop parkingArea="ParkArea-0" duration="300"/>
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaAlternative-0" duration="200"/> 
+            <stop parkingArea="ParkAreaOutOfTown-0" duration="1000"/> 
+        </trip>
+</routes>
