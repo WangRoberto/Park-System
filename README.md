@@ -1,6 +1,6 @@
 # Sistema di coordinamento per il parcheggio di veicoli autonomi
 
-Sviluppo di un sistema, il quale attraverso diversi meccanismi (per maggiori informazioni visionare il file "sistem.pdf") ha il compito finale di indicare ai veicoli un posto disponibile all'interno di un parcheggio mediante il simulatore SUMO.
+Sviluppo di un sistema, il quale attraverso diversi meccanismi (per maggiori informazioni visionare il file "system.pdf") ha il compito finale di indicare ai veicoli un posto disponibile all'interno di un parcheggio mediante il simulatore SUMO.
 
 ## Requisiti
 
